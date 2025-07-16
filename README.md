@@ -3,30 +3,28 @@
 </p>
 
 👩🏽‍💻 JavaScript • React • Next.js • TypeScript • Motion & UI Design  
-📍 Atlanta-based — open to new opportunities (remote, hybrid, or relocation)
+📍 Atlanta-based — Open to new opportunities (remote, hybrid, or relocation)
 ---
 
 ## 💫 About Me
 
-I’m a frontend engineer who loves building things that make sense to people and are clear, accessible, and grounded in real use.  
-From enterprise UIs and clinician tools to little creative experiments, I care about how things work, how they feel, and who they're built for.  
-I’m always learning, always iterating, and always aiming to create experiences that are empathetic, intuitive, and thoughtfully made.
+I’m a frontend engineer who loves building things that make sense to people and are clear, accessible, and grounded in real use. From enterprise UIs and clinician tools to little creative experiments, I care about how things work, how they feel, and who they're built for. I’m always learning, always iterating, and always aiming to create experiences that are empathetic, intuitive, and thoughtfully made.
 
 ---
 
 ## 🔭 What I’m Working On
 
-- **🌌 Starby** : a conversational astrology bot built with React, ChatGPT, and Astro. Exploring ideas around intuition, self-reflection, and cosmic play in a single-page app _(currently in progress)_.
+- **🌌 Starby** : a conversational astrology bot built with React, ChatGPT, and Astro. In a single-page app _(currently in progress)_.
 
 ---
 
-## 🧑🏽‍🏫 Teaching
+## 👩🏽‍🏫 Teaching
 
 - **Teaching Assistant** @ [The Knowledge House](https://www.theknowledgehouse.org/) : supporting students in the [Karim Kharbouch Coding Fellowship](https://www.theknowledgehouse.org/karim_kharbouch_coding_fellowship/), helping youth learn frontend development and grow their confidence in tech.
 
 ---
 
-## 🌱 Learning & Exploring
+## 🌱🧠 Learning & Exploring
 
 - Combining **code + creativity** for expressive web experiences  
 - Playing with **Framer Motion**, **GSAP**, and **Three.js** for animation and 3D interactions  
